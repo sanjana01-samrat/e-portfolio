@@ -1,0 +1,1 @@
+Welcome to my e-portfolio repository. This repository showcases my academic projects, technical skills, and development work. It reflects my learning journey and practical experience in programming, web development, and software tools, while serving as a professional portfolio of my projects and achievements.
